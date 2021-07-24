@@ -15,7 +15,6 @@ kubectl apply -f demo.v2.yaml
 # Install Kong
 
 $ kubectl apply -f https://bit.ly/k4k8s
-kubectl apply -f kong-deplyment.yaml
 
 # Add Label to NS
 
